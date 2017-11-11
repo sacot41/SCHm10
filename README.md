@@ -3,6 +3,8 @@ Helper class to configure HM-10 with arduino
 
 # Install
 
+You can either install through the Arduino Library Manager
+
 # Example
 
 ``` arduino
