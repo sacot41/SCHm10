@@ -1,0 +1,10 @@
+name=SCHm10
+version=1.0.0
+author=Samuel Cote <samuel.cote.6@gmail.com>
+maintainer=Samuel Cote <samuel.cote.6@gmail.com>
+sentence=Helper class to configure HM-10 with arduino.
+paragraph=Use it in your setup function to ensure your Hm-10 has the right configuration.
+category=Communication
+url=https://github.com/sacot41/SCHm10
+architectures=*
+includes=SCHm10.h
