@@ -1,9 +1,11 @@
 # SCHm10
 Helper class to configure HM-10 with arduino
 
+SCHm10 is a help class to avoid having to constantly refer to the HM-10 datasheet. It implements functions to modify the basic parameters of the Bluetooth module HM-10, such as its name, the baud rate, the password, etc.
+
 # Install
 
-You can either install through the Arduino Library Manager.
+You can install through the Arduino Library Manager.
 
 # Example
 
